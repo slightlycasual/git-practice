@@ -3,3 +3,6 @@
 #Just some info here for practice
 
 Added more text for my last commit
+
+
+Making a commit for the git merge lesson
