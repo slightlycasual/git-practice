@@ -6,3 +6,5 @@ Added more text for my last commit
 
 
 Making a commit for the git merge lesson
+
+Adding some infor for the merge-demo branch
